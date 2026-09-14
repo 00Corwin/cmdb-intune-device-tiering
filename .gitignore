@@ -1,0 +1,18 @@
+# Generated reports / temporary artefacts
+*.log
+*.tmp
+*.bak
+*.csv
+*.json
+
+# Keep repository examples
+!examples/*.csv
+!examples/**/*.csv
+!examples/*.json
+!examples/**/*.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
